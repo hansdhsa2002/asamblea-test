@@ -1,11 +1,11 @@
 <?php return array(
     'root' => array(
-        'pretty_version' => 'dev-main',
-        'version' => 'dev-main',
+        'pretty_version' => 'dev-master',
+        'version' => 'dev-master',
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
-        'reference' => 'd140fd92f4baed0f56e9f13bfc946f03a5134e5a',
+        'reference' => '1fe070c8e47520c42d7d56cda61618ba57c6aab1',
         'name' => 'laravel/laravel',
         'dev' => true,
     ),
@@ -683,12 +683,12 @@
             'dev_requirement' => false,
         ),
         'laravel/laravel' => array(
-            'pretty_version' => 'dev-main',
-            'version' => 'dev-main',
+            'pretty_version' => 'dev-master',
+            'version' => 'dev-master',
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
-            'reference' => 'd140fd92f4baed0f56e9f13bfc946f03a5134e5a',
+            'reference' => '1fe070c8e47520c42d7d56cda61618ba57c6aab1',
             'dev_requirement' => false,
         ),
         'laravel/nexmo-notification-channel' => array(
