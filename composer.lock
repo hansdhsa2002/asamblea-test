@@ -90,7 +90,7 @@
                 "cboden/ratchet": "^0.4.1",
                 "clue/buzz-react": "^2.5",
                 "ext-json": "*",
-                "facade/ignition-contracts": "^1.0",
+                "facade/ignition-contracts": "^2.3.6",
                 "guzzlehttp/psr7": "^1.5",
                 "illuminate/broadcasting": "5.7.* || 5.8.* || ^6.0",
                 "illuminate/console": "5.7.* || 5.8.* || ^6.0",
