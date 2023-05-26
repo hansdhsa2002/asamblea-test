@@ -536,7 +536,7 @@ class Helpers
         if (!($errno & (E_WARNING | E_NOTICE | E_USER_NOTICE | E_USER_WARNING | E_STRICT | E_DEPRECATED | E_USER_DEPRECATED))) {
             throw new Exception($errstr . " $errno");
         }
-        ini_set('max_execution_time', 61); // 1 minutes
+        ini_set('max_execution_time', 62); // 1 minutes
         global $_dompdf_warnings;
         global $_dompdf_show_warnings;
 
