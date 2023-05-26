@@ -11,9 +11,8 @@
         "php": "^7.3||^8.0",
         "barryvdh/laravel-dompdf": "^0.8.6",
         "beyondcode/laravel-websockets": "^1.0",
-        "craftcms/redactor": "^2.10",
         "fideloper/proxy": "^4.0",
-        "laravel/framework": "^8.0",
+        "laravel/framework": "5.7.*",
         "laravel/tinker": "^1.0",
         "laraveles/spanish": "^1.4",
         "pusher/pusher-php-server": "~3.0",
@@ -25,15 +24,16 @@
         "filp/whoops": "^2.0",
         "fzaninotto/faker": "^1.4",
         "mockery/mockery": "^1.0",
-        "nunomaduro/collision": "^5.0",
-        "phpunit/phpunit": "^9.0"
+        "nunomaduro/collision": "^2.0",
+        "phpunit/phpunit": "^7.0"
     },
     "config": {
-        "allow-plugins":true,
-
         "optimize-autoloader": true,
         "preferred-install": "dist",
-        "sort-packages": true
+        "sort-packages": true,
+        "allow-plugins": {
+            "kylekatarnls/update-helper": true
+        }
     },
     "extra": {
         "laravel": {
@@ -53,11 +53,6 @@
         "psr-4": {
             "Tests\\": "tests/"
         }
-    },
-    "allow-plugins": {
-        "magento/magento-composer-installer": true,
-        "magento/inventory-composer-installer": true,
-        "laminas/laminas-dependency-plugin": true
     },
     "minimum-stability": "dev",
     "prefer-stable": true,
