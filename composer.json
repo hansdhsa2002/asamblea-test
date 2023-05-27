@@ -10,9 +10,9 @@
     "require": {
         "php": "^7.3||^8.0",
         "barryvdh/laravel-dompdf": "^0.8.6",
-        "beyondcode/laravel-websockets": "^1.0",
+        "beyondcode/laravel-websockets": "^1.12",
         "fideloper/proxy": "^4.0",
-        "laravel/framework": "5.7.*",
+        "laravel/framework": "^8.40",
         "laravel/tinker": "^1.0",
         "laraveles/spanish": "^1.4",
         "pusher/pusher-php-server": "~3.0",
