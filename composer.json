@@ -10,12 +10,12 @@
     "require": {
         "php": "^7.3||^8.0",
         "barryvdh/laravel-dompdf": "^0.8.6",
-        "beyondcode/laravel-websockets": "^1.0",
+        "beyondcode/laravel-websockets": "^1.14",
         "fideloper/proxy": "^4.0",
         "laravel/framework": "5.7.*",
         "laravel/tinker": "^1.0",
         "laraveles/spanish": "^1.4",
-        "pusher/pusher-php-server": "~3.0",
+        "pusher/pusher-php-server": "^7.2",
         "spatie/laravel-permission": "2.*",
         "yajra/laravel-datatables-oracle": "~8.0"
     },

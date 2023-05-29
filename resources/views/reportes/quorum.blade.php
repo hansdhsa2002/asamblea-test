@@ -13,14 +13,14 @@
     </div>
     <div id="company">
         <h2 class="name">Comfamiliar Cartagena y Bolívar</h2>
-        <div>Barrio Centro, Ave. Escallón N° 34 - 62 edificio Banco de Bogotá Piso 2, 3, 4 y 6</div>
-        <div>+57 (5) 6810993</div>
-        <div><a href="mailto:servicioalcliente@comfamiliar.org.co">servicioalcliente@comfamiliar.org.co</a></div>
+        <div>Barrio Centro, Ave. Escallón N° 34 - 62 edificio Banco de Bogotá Piso 2, 4 y 6</div>
+        <div>+57 (5) 641 1600</div>
+        <div><a href="https://comfamiliar.org.co/#">https://comfamiliar.org.co/#</a></div>
     </div>
 </header>
 
-<h2>ASAMBLEA GENERAL ORDINARIA DE EMPRESAS AFILIADAS A LA CAJA DE COMPENSACIÓN FAMILIAR DE CARTAGENA Y BOLÍVAR “COMFAMILIAR” VIGENCIA 2019</h2>
-<h3>Cartagena de Indias D. T. y C., Mayo 20, 2020</h3>
+<h2>ASAMBLEA GENERAL ORDINARIA DE EMPRESAS AFILIADAS A LA CAJA DE COMPENSACIÓN FAMILIAR DE CARTAGENA Y BOLÍVAR “COMFAMILIAR” VIGENCIA 2023</h2>
+<h3>Cartagena de Indias D. T. y C., Junio 9, 2020</h3>
 <h3>Hora de impresión: {{date('h:i:s A')}}</h3>
 <table>
     <thead>
